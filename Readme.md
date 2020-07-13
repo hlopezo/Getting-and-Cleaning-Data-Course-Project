@@ -4,7 +4,7 @@
 This repository is a Henry Lopez submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
 ## Dataset
-
+[Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 ## Files
 
 * **CodeBook.md** a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
